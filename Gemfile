@@ -45,3 +45,5 @@ end
 # gem 'debugger', group: [:development, :test]
 
 gem 'hirb'
+
+gem 'bootstrap-sass', '~> 2.3.1.0'
